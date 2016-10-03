@@ -1,0 +1,8 @@
+# Data files
+*.txt
+*.json
+
+# Files for distribution
+*.exe
+*.bat
+*.zip
